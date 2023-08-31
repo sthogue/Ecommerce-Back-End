@@ -27,7 +27,7 @@
 ## Installation
 
 To run the application you will need to do the following: 
-1. update the `.env.EXAMPLE` file with your username and password. You need to also change the file name to `.env`
+1. update the `.env.EXAMPLE` file with your username and password. You need to also change the file name to `.env`.
 2. Now source the database by:
     - In the terminal run `mysql -u root -p`
     - Sign in with your password
