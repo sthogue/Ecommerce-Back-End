@@ -79,7 +79,7 @@ This application is covered under the MIT License.
 I have GitHub co-pilot installed to help speed up my code and to reduce errors. I also had assistance from a TA.
 
 ## Video Of Application
-[Link to video of application in use]()
+[Link to video of application in use](https://drive.google.com/file/d/13AoH-MDT-iAHuBWEnRmHDinI320AMGTJ/view?usp=share_link)
 ## Application URL
 [Link to application URL](https://github.com/sthogue/Ecommerce-Back-End) 
 
